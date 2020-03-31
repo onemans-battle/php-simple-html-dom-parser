@@ -21,6 +21,6 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-0": { "Lincw\\PhpSimple\\HtmlDomParser": "Src/" }
+        "psr-4": { "Lincw\\": "Src/Lincw/" }
     }    
 }
